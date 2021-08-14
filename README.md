@@ -21,7 +21,7 @@
   
 </div>
 
-<h3 align="center">I used this Languages and Tools:</h3>
+<h3 align="center">I mostly use this Languages and Tools:</h3>
 
 <p align="center"> 
   <a href="https://www.android.com/" target="_blank"> 
