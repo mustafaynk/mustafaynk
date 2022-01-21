@@ -7,14 +7,14 @@
 
 - 👯 I’m looking to collaborate on **mobile application projects**
 
-- 📫 How to reach me: **mustafayanik4296@gmail.com**
+- 📫 How to reach me: **mustafayanik4296@gmail.com** - **my@mustafayanik.net**
 
 - ⚡ What I like to do: **I would like to learn new things, reading books and articles ...and coding of course**
 
 <h3 align="center">Contact with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/WebSite-B99E64?style=for-the-badge&logo=website&logoColor=white)](https://www.mustafayanik.net/)
+[![image](https://img.shields.io/badge/WebSite-B99E64?style=for-the-badge&logo=webflow&logoColor=white)](https://www.mustafayanik.net/)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-yanik/)
 [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafayanik/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mustafa.yanik.my/)
@@ -49,4 +49,4 @@
 
 ------
 
-[Mustafa Yanık](https://github.com/mustafaynk)
+[![image](https://img.shields.io/badge/Mustafa%20Yan%C4%B1k%20Github-007BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mustafaynk)
