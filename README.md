@@ -28,12 +28,12 @@
   <a href="https://www.android.com/" target="_blank"> 
     <img src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png" alt="android" width="40" height="40"/> 
   </a>
-  <a href="https://java.com/" target="_blank"> 
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" width="40" height="40"/> 
-  </a> 
   <a href="https://kotlinlang.org/" target="_blank"> 
     <img src="https://brandslogos.com/wp-content/uploads/images/large/kotlin-logo.png" alt="kotlin" width="40" height="40"/> 
   </a>  
+  <a href="https://java.com/" target="_blank"> 
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" width="40" height="40"/> 
+  </a> 
   <a href="hhttps://flutter.dev/" target="_blank"> 
     <img src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" alt="flutter" width="40" height="40"/> 
   </a> 
