@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa 
-<h3 align="center">A Senior Android Developer</h3>
+<h3 align="center">Senior Android Developer</h3>
 
 - 🔭 I’m currently working as an **Android Developer | Senior Specialist**
   
