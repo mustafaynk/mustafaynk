@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as an **Android Developer | Senior Specialist**
   
-- 🌱 I’m currently learning **Kotlin, Flutter and iOS**
+- 🌱 I’m currently working/learning **Kotlin, Flutter and iOS**
 
 - 👯 I’m looking to collaborate on **mobile application projects**
 
