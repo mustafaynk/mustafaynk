@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa 
 <h3 align="center">Senior Android Developer</h3>
 
-- 🔭 I’m currently working as an **Android Developer | Lead Engineer**
+- 🔭 I’m currently working as an **Senior Android Developer | Lead Engineer**
   
 - 🌱 I’m currently working/learning **Android, Kotlin, Flutter and iOS**
 
