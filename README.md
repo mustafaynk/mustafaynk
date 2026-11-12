@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mustafa 
 <h3 align="center">Senior Android Developer</h3>
 
-- 🔭 I’m currently working as an **Android Developer | Senior Specialist**
+- 🔭 I’m currently working as an **Android Developer | Lead Engineer**
   
 - 🌱 I’m currently working/learning **Kotlin, Flutter and iOS**
 
 - 👯 I’m looking to collaborate on **mobile application projects**
 
-- 📫 How to reach me: **mustafayanik4296@gmail.com** - **my@mustafayanik.net**
+- 📫 How to reach me: **mustafayanik4296@gmail.com** - **me@mustafayanik.com.tr**
 
 - ⚡ What I like to do: **I would like to learn new things, reading books and articles ...and coding of course**
 
