@@ -14,7 +14,7 @@
 <h3 align="center">Contact with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/WebSite-B99E64?style=for-the-badge&logo=webflow&logoColor=white)](https://www.mustafayanik.net/)
+[![image](https://img.shields.io/badge/WebSite-B99E64?style=for-the-badge&logo=webflow&logoColor=white)](https://www.mustafayanik.com.tr/)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-yanik/)
 [![image](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/12722872/mustafa-yan%C4%B1k)
 [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafayanik/)
@@ -42,11 +42,6 @@
   </a>
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=mustafaynk&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaynk&theme=react&layout=compact" />
-</p>
-
-------
+-------------
 
 [![image](https://img.shields.io/badge/Mustafa%20Yan%C4%B1k%20Github-007BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mustafaynk)
